@@ -68,29 +68,10 @@ Show Image
 🔄 SIP investing smoothed out volatility compared to lump-sum strategies
 📈 Technical strategies (MA/RSI) [beat / underperformed] Buy & Hold after accounting for drawdown
 📂 Repository Structure
-Indian-Stock-Market-Analysis/
-│
-├── Indian_Stock_Market_Analysis.ipynb   # Main analysis notebook
-├── requirements.txt                     # Python dependencies
-├── images/                              # Exported chart screenshots
-│   ├── buy_and_hold.png
-│   └── risk_vs_reward.png
-└── README.md
-🚀 How to Run
-Clone the repo:
-bash
-   git clone https://github.com/RohitBishtDA/Indian-Stock-Market-Analysis.git
-   cd Indian-Stock-Market-Analysis
-Install dependencies:
-bash
-   pip install -r requirements.txt
-Launch the notebook and run all cells:
-bash
-   jupyter notebook Indian_Stock_Market_Analysis.ipynb
-⚠️ Disclaimer
 
-This project is for educational purposes only and does not constitute financial advice. Past performance of any strategy shown here is not indicative of future results.
+
+   jupyter notebook Indian_Stock_Market_Analysis.ipynb
 
 📬 Contact
 
-Author: Rohit Singh Bisht GitHub: RohitBishtDA
+Author: Rohit Singh Bisht   GitHub: RohitBishtDA
