@@ -49,7 +49,7 @@ This serves as the **baseline benchmark** against which all other strategies are
 
 **Metrics:** Total Return · CAGR · Maximum Drawdown
 
-![Nifty-50 Performance Metrics](images/Nifty_50_Performance_Metrics.png)
+<img width="462" height="65" alt="Image" src="https://github.com/user-attachments/assets/f6bb1979-1501-4594-84df-6e52007ca443" />
 
 ---
 
@@ -59,7 +59,7 @@ A **20-day Moving Average crossover strategy** that generates buy and sell signa
 
 **Metrics:** Total Return · CAGR · Maximum Drawdown
 
-![MA-20 Performance Metrics](images/MA_20_Performance_Metrics.png)
+<img width="270" height="65" alt="Image" src="https://github.com/user-attachments/assets/49a2c23e-5f37-4ce2-a0f5-bf77c32b15d8" />
 
 ---
 
@@ -71,7 +71,7 @@ This allows comparison between **shorter-term and longer-term trend signals**.
 
 **Metrics:** Total Return · CAGR · Maximum Drawdown
 
-![MA-50 Performance Metrics](images/MA_50_Performance_Metrics.png)
+<img width="241" height="62" alt="Image" src="https://github.com/user-attachments/assets/a81ff0d6-1385-4dbd-a517-cd7af42ec4be" />
 
 ---
 
@@ -84,7 +84,7 @@ A rule-based strategy using the **Relative Strength Index (RSI)** to generate en
 
 **Metrics:** Total Return · CAGR · Maximum Drawdown
 
-![RSI Performance Metrics](images/RSI_Performance_Metrics.png)
+<img width="415" height="67" alt="Image" src="https://github.com/user-attachments/assets/e158145e-4adf-4757-99d1-70bc47e0821b" />
 
 ---
 
@@ -96,7 +96,7 @@ Because SIP involves **multiple cash flows occurring on different dates**, **XIR
 
 **Metrics:** Total Return · XIRR · Maximum Drawdown
 
-![SIP Performance Metrics](images/SIP_Performance_Metrics.png)
+<img width="338" height="65" alt="Image" src="https://github.com/user-attachments/assets/73b20acf-cd1d-4eef-8438-632b4bccf7d2" />
 
 ---
 
@@ -104,7 +104,7 @@ Because SIP involves **multiple cash flows occurring on different dates**, **XIR
 
 The project begins by analyzing the historical price movement of the Nifty-50 over the study period.
 
-![Nifty-50 Historical Performance](images/Nifty_50_over_time.png)
+<img width="1282" height="587" alt="Image" src="https://github.com/user-attachments/assets/3f7e4907-53f9-4036-8512-8bbeb296213c" />
 
 ---
 
@@ -114,7 +114,7 @@ The five strategies are compared using their respective **annualized return meas
 
 ### Risk vs. Return
 
-![Risk vs Reward](images/Risk_vs_Reward__Strategies_.png)
+<img width="1350" height="563" alt="Image" src="https://github.com/user-attachments/assets/0ffe5296-f690-4e73-9c9d-f6fa0b4823d2" />
 
 ---
 
